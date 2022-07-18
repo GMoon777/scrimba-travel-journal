@@ -1,2 +1,2 @@
-My work on the scrimba solo project "Travel Journal" see it https://62d5833642869908941fa166--astounding-beijinho-50547b.netlify.app/
+My work on the scrimba solo project "Travel Journal" see it https://astounding-beijinho-50547b.netlify.app/
 trying to create the design here - https://astounding-beijinho-50547b.netlify.app
