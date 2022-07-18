@@ -1,0 +1,107 @@
+* {
+    box-sizing: border-box;
+    font-family: Inter;
+}
+
+.app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+nav {
+    height: 70px;
+    display: flex;
+    background-color: #F55A5A;
+    align-items: center;
+    justify-content: center;
+    min-width: 150px;
+    margin-bottom: 50px;
+}
+
+.nav--icon {
+height: 24px;
+padding-right: 5px;
+}
+
+.nav--text {
+    font-size: 14.46px;
+    font-weight: 500;
+    line-height: 17.5px;
+    color: #FFFFFF;
+    letter-spacing: -0.75px
+}
+
+card {
+    display: flex;
+   
+}
+.card--image {
+    width: 125px;
+    height: 168px;
+    border-radius: 5px;
+}
+
+.card--gpsIcon {
+    width: 7px;
+    height: 9.55px;
+}
+.card--locationText {
+    font-weight: 400;
+    font-size: 10.24px;
+    letter-spacing: 1.7px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.card--urlText {
+font-weight: 400;
+font-size: 10.24px;
+line-height: 12px;
+text-decoration-line: underline;
+color: #918E9B;
+}
+
+.card--titleText {
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+color: #2B283A;
+padding-bottom: 15px;
+}
+
+.card--dateText{
+font-weight: 700;
+font-size: 10.24px;
+line-height: 12px;
+color: #2B283A;
+padding-bottom: 5px;
+}
+
+.card--bodyText {
+font-weight: 400;
+font-size: 10.24px;
+line-height: 15px;
+color: #2B283A;
+}
+.card--line {
+    border: 1px solid #F5F5F5;
+}
+
+.card--locLinkCont{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 10px;
+}
+.card--cont{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+     max-width: 550px;
+     min-width: 400px;
+}
+
+.card--textCont{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
